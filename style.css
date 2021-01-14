@@ -33,10 +33,12 @@ li{
 }
 a{
     text-decoration: none;
+    
 }
 a:hover{
     font-weight: bolder;
     text-decoration: underline;
+    
 }
 footer{
     text-align: center;
