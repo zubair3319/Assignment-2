@@ -3,7 +3,7 @@
     padding: 0;
 }
 .menu{
-        background-color: #f4fdff;
+        background-color: #c6ebf3;
 }
 .first-article{
     background-color: #FFF9F4;
@@ -27,4 +27,18 @@ p{
 .custom-card-footer{
     background: none;
     border: none;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+footer{
+    text-align: center;
+    color: gray;
 }
