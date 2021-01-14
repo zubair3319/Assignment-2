@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+        background-color: #f4fdff;
+}
+.first-article{
+    background-color: #FFF9F4;
+}
+.text{
+    font-weight: bolder;
+    font-size: 60px;
+}
+.orange-marker{
+    color: #FA804C;
+}
+.dark-marker{
+    color: #363958;
+}
+p{
+    font-size: 20px;
+}
+.custom-card{
+    border: none;
+}
+.custom-card-footer{
+    background: none;
+    border: none;
+}
